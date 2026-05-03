@@ -54,5 +54,6 @@ The analysis utilizes a publicly available Global E-commerce dataset containing 
    pip install pandas matplotlib seaborn
 
 3. **Launch the analysis:**
+
 Open Advanced_Retail_Analytics_Project.ipynb in Jupyter Notebook to view the code, visualizations, and business commentary.
    
