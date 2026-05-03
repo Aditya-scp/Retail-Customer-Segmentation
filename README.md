@@ -3,9 +3,6 @@
 ## Project Overview
 This project performs an end-to-end Exploratory Data Analysis (EDA) on a dataset of over 540,000 historical e-commerce retail transactions. The objective is to extract actionable business intelligence by segmenting the customer base and analyzing purchasing lifecycles to optimize marketing spend and improve customer retention.
 
-**Target Role:** Data Analytics Associate (DAA)  
-**Domain:** Retail & E-Commerce Analytics  
-
 ---
 
 ## Business Value & Strategic Frameworks
